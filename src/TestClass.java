@@ -10,7 +10,7 @@ public class TestClass {
 		
 		Test1 ob = new Test1();
 		ob.setName("jay");
-		assertEquals("jay" ,ob.getName());
+		assertEquals("ay" ,ob.getName());
 	}
 
 }
